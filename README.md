@@ -2,8 +2,11 @@
 # ESMC
 Easy Minecraft server on your computer!
 # Versions
-# 1.16.5 - https://github.com/PouekDEV/ESMC/releases/tag/1.16.5
-# 1.12.2 - https://github.com/PouekDEV/ESMC/releases/tag/1.12.2
-# 1.8.9 - https://github.com/PouekDEV/ESMC/releases/tag/1.8.9
+# 1.x.x - 
+
+This version is compatible with (probably) all Minecraft server versions
+# Warning
+You need to download the Minecraft server file from [here](https://www.minecraft.net/en-us/download/server) and be sure to put it in the program folder. Server file name must be ***server.jar***
+
 # How to use?
 Run ESMC.exe and follow the steps
