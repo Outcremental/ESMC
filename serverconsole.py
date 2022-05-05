@@ -1,4 +1,7 @@
 import os
 with open(str("ram.esmc")) as f:
       ram = f.read()
-os.system("java -Xmx"+ ram +"G -Xms"+ ram +"G -jar server.jar nogui")
+with open(str("argument.esmc")) as f:
+      gui = f.read()
+argument = int(ram) * 2
+os.system("java -Xmx"+ str(argument) +"G -Xms"+ ram +"G -XX:MaxHeapSize=1G -jar server.jar " + gui)
