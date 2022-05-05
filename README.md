@@ -2,7 +2,7 @@
 # ESMC
 Easy Minecraft server on your computer!
 # Versions
-# 1.x.x - https://github.com/Outcremental/ESMC/releases/tag/Stable
+# Minecraft 1.x.x - https://github.com/Outcremental/ESMC/releases/tag/Stable
 
 This version is compatible with (probably) all Minecraft server versions
 # Warning
